@@ -1,0 +1,11 @@
+.main_section {
+  display: flex;
+  justify-content: center;
+
+  .main_content {
+    width: 100%;
+    max-width: 600px;
+    height: 100%;
+    padding: 20px;
+  }
+}
